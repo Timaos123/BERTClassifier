@@ -3,7 +3,7 @@ emmmm就算是个搬运工和整合工啦，具体原理就不介绍了，懂的
 # 环境准备
 
 1.安装bert-for-tf2
-* ```
+```
 pip install bert-for-tf2
 ```
 
